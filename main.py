@@ -104,3 +104,7 @@ def download_cleaned_file(filename: str):
         filename=filename,
         media_type="text/csv"
     )
+    
+@app.get("/")
+def read_root():
+    return {"message": "DataQC Backend API is live!"}
