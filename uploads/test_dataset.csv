@@ -1,0 +1,10 @@
+Name,Age,Gender,Salary,Department,Performance
+Aditi,20.0,Female,45000.0,AI,Excellent
+Rahul,21.0,Male,52000.0,Data,Good
+Priya,20.0,Female,,AI,Excellent
+Rohan,22.0,Male,48000.0,Web,Average
+Neha,,Female,55000.0,Data,Good
+Amit,23.0,Male,60000.0,AI,Excellent
+Rahul,21.0,Male,52000.0,Data,Good
+Sneha,22.0,Female,,Web,Average
+Karan,24.0,Male,58000.0,AI,
